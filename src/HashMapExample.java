@@ -7,7 +7,7 @@ public class HashMapExample {
         // Add keys and values (Country, City)
         capitalCities.put("England", "London");
         capitalCities.put("Germany", "Berlin");
-        capitalCities.put("Norway", "Oslo");
+        capitalCities.put("Norwadqy", "Oslo");
         capitalCities.put("USA", "Washington DC");
         System.out.println(capitalCities);
 
