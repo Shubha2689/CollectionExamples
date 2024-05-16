@@ -9,7 +9,5 @@ public class HashSetEx {
         cars.add("BMW");
         cars.add("Mazda");
         System.out.println(cars);
-
-        cars.remove(0);
     }
 }
